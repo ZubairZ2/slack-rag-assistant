@@ -1,0 +1,9 @@
+slack-bolt
+slack-sdk
+pinecone
+langchain
+langchain-core
+langchain-ollama
+langchain-openai
+langchain-pinecone
+python-dotenv
